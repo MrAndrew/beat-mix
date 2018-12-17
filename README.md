@@ -1,6 +1,6 @@
 # Beat Mix
 
-This is a simple browser based drum machine that I wrote JavaScript code to get from broken to functional.
+This is a simple browser based drum machine that I wrote JavaScript code to get from broken to functional. The starting code can be found [here](https://s3.amazonaws.com/codecademy-content/programs/build-apis/projects/project-2-beat-mix.zip). My task was writing the JavaScript found in `script.js` within the `/public/js` directory. 
 
 ## Getting Started
 
